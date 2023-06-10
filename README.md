@@ -1,6 +1,7 @@
 # cpp
 This repository contains the code I wrote or adapted from various sources to brush up my rusty C++ skills.
 
+I'm using Visual Studio 2022.
 
 The materials I used included:
 
